@@ -19114,15 +19114,15 @@
   <sound id="fire_truck_scene_of_fire_02.mp3" name="Ambience - Fire scene with fire truck" downloadtype="progressive" subtype="soundeffect" duration="176144" enable="Y" is_premium="N" aid="27679" money="0" sharing="0"/>
   <sound id="football_crowd_touchdown_01_loop.mp3" name="Ambience - Stadium" downloadtype="progressive" subtype="soundeffect" duration="16666" enable="Y" is_premium="N" aid="27680" money="0" sharing="0"/>
   <sound id="footstep_multiple_dirt_boot_walk_05_loop.mp3" name="FX - Footstep" downloadtype="progressive" subtype="soundeffect" duration="13505" enable="Y" is_premium="N" aid="27681" money="0" sharing="0"/>
-  <sound id="adam_run.wav" name="FX - Footstep - Adam Running" downloadtype="progressive" subtype="soundeffect" duration="13505" enable="Y" is_premium="N" aid="27681" money="0" sharing="0" />
-	<sound id="adam_walk.wav" name="FX - Footstep - Adam Walking" downloadtype="progressive" subtype="soundeffect" duration="13505" enable="Y" is_premium="N" aid="27681" money="0" sharing="0" />
-	<sound id="adam_run.wav" name="FX - Footstep - Adam Running" downloadtype="progressive" subtype="soundeffect" duration="13505" enable="Y" is_premium="N" aid="27681" money="0" sharing="0" />
-	<sound id="bob_walk.wav" name="FX - Footstep - Bob Walking" downloadtype="progressive" subtype="soundeffect" duration="13505" enable="Y" is_premium="N" aid="27681" money="0" sharing="0" />
-	<sound id="bob_run.wav" name="FX - Footstep - Bob Running" downloadtype="progressive" subtype="soundeffect" duration="13505" enable="Y" is_premium="N" aid="27681" money="0" sharing="0" />
-	<sound id="eve_walk.wav" name="FX - Footstep - Eve Walking" downloadtype="progressive" subtype="soundeffect" duration="13505" enable="Y" is_premium="N" aid="27681" money="0" sharing="0" />
-	<sound id="eve_run.wav" name="FX - Footstep - Eve Running" downloadtype="progressive" subtype="soundeffect" duration="13505" enable="Y" is_premium="N" aid="27681" money="0" sharing="0" />
-	<sound id="rocky_walk.wav" name="FX - Footstep - Rocky Walking" downloadtype="progressive" subtype="soundeffect" duration="13505" enable="Y" is_premium="N" aid="27681" money="0" sharing="0" />
-	<sound id="rocky_run.wav" name="FX - Footstep - Rocky Running" downloadtype="progressive" subtype="soundeffect" duration="13505" enable="Y" is_premium="N" aid="27681" money="0" sharing="0" />
+  <sound id="adam_run.mp3" name="FX - Footstep - Adam Running" downloadtype="progressive" subtype="soundeffect" duration="13505" enable="Y" is_premium="N" aid="27681" money="0" sharing="0" />
+	<sound id="adam_walk.mp3" name="FX - Footstep - Adam Walking" downloadtype="progressive" subtype="soundeffect" duration="13505" enable="Y" is_premium="N" aid="27681" money="0" sharing="0" />
+	<sound id="adam_run.mp3" name="FX - Footstep - Adam Running" downloadtype="progressive" subtype="soundeffect" duration="13505" enable="Y" is_premium="N" aid="27681" money="0" sharing="0" />
+	<sound id="bob_walk.mp3" name="FX - Footstep - Bob Walking" downloadtype="progressive" subtype="soundeffect" duration="13505" enable="Y" is_premium="N" aid="27681" money="0" sharing="0" />
+	<sound id="bob_run.mp3" name="FX - Footstep - Bob Running" downloadtype="progressive" subtype="soundeffect" duration="13505" enable="Y" is_premium="N" aid="27681" money="0" sharing="0" />
+	<sound id="eve_walk.mp3" name="FX - Footstep - Eve Walking" downloadtype="progressive" subtype="soundeffect" duration="13505" enable="Y" is_premium="N" aid="27681" money="0" sharing="0" />
+	<sound id="eve_run.mp3" name="FX - Footstep - Eve Running" downloadtype="progressive" subtype="soundeffect" duration="13505" enable="Y" is_premium="N" aid="27681" money="0" sharing="0" />
+	<sound id="rocky_walk.mp3" name="FX - Footstep - Rocky Walking" downloadtype="progressive" subtype="soundeffect" duration="13505" enable="Y" is_premium="N" aid="27681" money="0" sharing="0" />
+	<sound id="rocky_run.mp3" name="FX - Footstep - Rocky Running" downloadtype="progressive" subtype="soundeffect" duration="13505" enable="Y" is_premium="N" aid="27681" money="0" sharing="0" />
   <sound id="fountain_03_30_loop.mp3" name="Ambience - Fountain" downloadtype="progressive" subtype="soundeffect" duration="31608" enable="Y" is_premium="N" aid="27682" money="0" sharing="0"/>
   <sound id="goat_bleat_14.mp3" name="FX - Goat bleat" downloadtype="progressive" subtype="soundeffect" duration="1254" enable="Y" is_premium="N" aid="27683" money="0" sharing="0"/>
   <sound id="goop_26.mp3" name="FX - Goop" downloadtype="progressive" subtype="soundeffect" duration="261" enable="Y" is_premium="N" aid="27684" money="0" sharing="0"/>
